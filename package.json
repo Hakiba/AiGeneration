@@ -1,0 +1,15 @@
+{
+  "name": "openai-example",
+  "version": "1.0.0",
+  "description": "A simple example using the OpenAI API",
+  "main": "test-ollama.js",
+  "type": "module",
+  "scripts": {
+    "start": "node test-ollama.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.47.3"
+  }
+}

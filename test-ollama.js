@@ -26,7 +26,7 @@ async function fetchOllama() {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      model: "stablelm-zephyr",
+      model: "llama3",
       prompt: prompt,
       stream: false,
     }),
